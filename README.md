@@ -1,4 +1,4 @@
-# Snake Game — JAVA_project_T_Vladislav
+# Snake Game - JAVA_project_T_Vladislav
 
 Учебный проект по Java. Игра «Змейка» в фиолетово-чёрных тонах.
 
